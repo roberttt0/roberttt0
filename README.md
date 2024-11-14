@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Student
+Student \n
 Faculty of Mathematics and Informatics, University of Bucharest
